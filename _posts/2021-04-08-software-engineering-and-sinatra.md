@@ -3,26 +3,31 @@ layout: post
 title:  "Software Engineering and Sinatra"
 ---
 
-## Introduction
+## Overview
 
 For my first year in university (2019-2020) there was a module that required me to work in a team of 7, myself included. The goal of the project was to build a product using AGILE that our "clients" wanted. 
 
 The full project can be seen openly on GitHub [here](https://github.com/SamTheDude/COM1001-Bookmark-Site) with instructions about how to use the project in the README. I wouldn't recommend use though, mainly because it is a bit crap.
 
+### Technologies Used
+
+- Ruby
+    - Sinatra
+    - Capybara
+    - Cucumber
+    - Rake
+- SQL (sqlite3)
+- Git
+- GitLab
+- HTML
+- CSS
+- Javascript
 
 ## Evaluation
 
 This is one of those projects that I hated to no end while doing it, but looking back it did teach me a few things:
 
 *Note: I wrote a lot of stuff, just read the headers if you are bored.*
-
-### Teamwork Aspects
-
-#### Get People Going From Day 1
-
-
-
-### Technical Aspects
 
 #### Take Your Time Planning a Database
 
@@ -37,3 +42,7 @@ Prior to this I hadn't used any end to end testing methods and had gotten by usi
 #### Proper Git Practice is Important
 
 When we began I let the project run wild in terms of git figuring that teaching people in the project to use proper merge requests and alike would be far more effort than it was worth. I did not account for how long people like to go between commits, several times people would push 3-4 commits from the course of several days at the end and then have hell to deal with in terms of merge conflicts. This became such a hellish nightmare and I was fixing the project more than I was actually working on it. Do the proper workflows in all cases or you will get burnt by merge conflicts and failing tests.
+
+### Conclusion
+
+Good project all round, getting experience with using git and Gitlab in a medium-sized team project was a first, I just wish I'd been able to make the product a little better in the end.
