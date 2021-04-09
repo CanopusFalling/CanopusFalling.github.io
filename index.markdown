@@ -1,11 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-![Photo of me!](/assets/images/profile_picture.png)
+<img src="/assets/images/profile_picture.png" alt="picture of me" class="rounded mx-auto d-block" width="200px">
 
 # Hello, I'm Sam!
 
