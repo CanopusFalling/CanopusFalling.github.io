@@ -13,6 +13,9 @@ social-network-links:
 # --- Site Formatting ---
 #url-pretty: "SamTheDude.github.io"
 
+# Favicon
+favicon-location: "/assets/images/favicon.png"
+
 # Navbar
 #navbar-links:
 
@@ -34,7 +37,7 @@ hover-col: "#C6C6C6"
 footer-col: "#111111"
 footer-border-col: "#090909"
 footer-text-col: "#8698B0"
-footer-link-col: "#CE6576"
+footer-link-col: "#A04A58"
 
 # --- Build settings ---
 # Theme Setup
