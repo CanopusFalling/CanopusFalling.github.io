@@ -2,6 +2,7 @@
 
 title: Samuel Kent
 author: Samuel Kent
+url: "https://SamTheDude.github.io"
 
 # --- Social Media ---
 # My pages
@@ -11,7 +12,7 @@ social-network-links:
   linkedin: kent-samuel
 
 # --- Site Formatting ---
-#url-pretty: "SamTheDude.github.io"
+url-pretty: "SamTheDude.github.io"
 
 # Favicon
 favicon-location: "/assets/images/favicon.png"
@@ -34,10 +35,13 @@ page-col: "#000000"
 text-col: "#F3F4EE"
 link-col: "#EBEAD9"
 hover-col: "#C6C6C6"
-footer-col: "#111111"
+footer-col: "#000000"
 footer-border-col: "#090909"
-footer-text-col: "#8698B0"
-footer-link-col: "#A04A58"
+footer-text-col: "#F3F4EE"
+footer-link-col: "#D47D8B"
+
+# Remove Beautiful Jekyll ad
+remove-ads: true
 
 # --- Build settings ---
 # Theme Setup

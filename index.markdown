@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Photo of me!](/assets/images/profile_picture.png)
+<img src="/assets/images/profile_picture.png" alt="picture of me" class="rounded mx-auto d-block" width="200px">
 
 # Hello, I'm Sam!
 
